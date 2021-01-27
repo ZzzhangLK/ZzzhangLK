@@ -19,5 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
+- 🔭 I want to work for Tencent
 - 🌱 I’m currently learning Vue.js
+- 🏓 Hobby: code & read
+- 👋 My personal [blog site](https://zzzhanglk.github.io/)
 - 💬 Ask me about anything [here](https://github.com/ZzzhangLK/ZzzhangLK/issues)

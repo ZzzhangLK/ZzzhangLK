@@ -1,6 +1,6 @@
 ### Hi there, I am ZzzhangLK 👋
 
-> A Front end developer from **ShenZhen, China**.
+> A Frontend developer from **ShenZhen, China**.
 
 ### 🏗️ Learning:
 

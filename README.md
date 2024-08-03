@@ -24,9 +24,9 @@
 
 ### 📊 Stats:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZzzhangLK&show_icons=true&theme=buefy&hide_border=true&rank_icon=github" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZzzhangLK&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZzzhangLK&show_icons=true&hide_border=true&rank_icon=github" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZzzhangLK&layout=compact&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### 📈 Activity Graph:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZzzhangLK&theme=react-dark)](https://github.com/li-jia-nan/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZzzhangLK&theme=react-dark&bg_color=fff&point=0969da&color=0969da)](https://github.com/li-jia-nan/github-readme-activity-graph)

@@ -1,6 +1,6 @@
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZzzhangLK&&hide_border=true&count_private=true&show_icons=true&include_all_commits=true">
-</a>
+<div style="width: 300px;overflow: hidden;cursor: pointer;" align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=ZzzhangLK&&hide_border=true&show_icons=true&include_all_commits=true">
+</div>
 
 ### Hi there 👋
 

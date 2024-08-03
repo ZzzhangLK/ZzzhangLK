@@ -1,31 +1,32 @@
-<a href="#">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZzzhangLK&&hide_border=true&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github">
-    <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZzzhangLK&layout=donut"> -->
-</a>
+### Hi there, I am ZzzhangLK 👋
 
-### Hi there 👋
+> A Front end developer from **ShenZhen, China**.
 
-<!--
-**ZzzhangLK/ZzzhangLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏗️ Learning:
 
-Here are some ideas to get you started:
+<code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
+<code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+### 📫 Reach me:
 
-<!-- - 🔭 I want to work for Tencent -->
-- 🌱 I’m currently learning [Vue](https://github.com/vuejs/vue) and [React](https://github.com/facebook/react)
-- 🏓 Hobby: code & read
-- 👋 My personal [blog site](https://zzzhanglk.github.io/)
-- 💬 Ask me about anything [here](https://github.com/ZzzhangLK/ZzzhangLK/issues)
+- **WeChat** : 18308988976
+- **Phone** : +8617608918976
+- **E-mail** : zhanglingkun@outlook.com
 
-<p align="right">
-	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZzzhangLK&hide_progress=true">
-</p>
+> ## 求职求职，深圳、海口、广州求内推，联系方式在上面 ☝️
+
+### 🏠 Blog:
+
+- **[https://zzzhanglk.github.io](https://zzzhanglk.github.io)**
+
+### 📊 Stats:
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZzzhangLK&show_icons=true&theme=buefy&hide_border=true&rank_icon=github" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZzzhangLK&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+### 📈 Activity Graph:
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZzzhangLK&theme=react-dark)](https://github.com/li-jia-nan/github-readme-activity-graph)

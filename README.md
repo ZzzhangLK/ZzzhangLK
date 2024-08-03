@@ -1,6 +1,6 @@
 <a href="#">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZzzhangLK&&hide_border=true&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZzzhangLK&layout=donut">
+    <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZzzhangLK&layout=donut"> -->
 </a>
 
 ### Hi there 👋
@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 - 🏓 Hobby: code & read
 - 👋 My personal [blog site](https://zzzhanglk.github.io/)
 - 💬 Ask me about anything [here](https://github.com/ZzzhangLK/ZzzhangLK/issues)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&hide_progress=true)

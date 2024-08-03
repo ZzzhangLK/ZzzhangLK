@@ -1,6 +1,8 @@
-<div style="width: 300px;overflow: hidden;cursor: pointer;" align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZzzhangLK&&hide_border=true&show_icons=true&include_all_commits=true">
-</div>
+<a href="#">
+    <div style="width: 300px;overflow: hidden;" align="right">
+        <img src="https://github-readme-stats.vercel.app/api?username=ZzzhangLK&&hide_border=true&show_icons=true&include_all_commits=true">
+    </div>
+</a>
 
 ### Hi there 👋
 

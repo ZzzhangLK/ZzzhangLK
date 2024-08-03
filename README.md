@@ -26,4 +26,6 @@ Here are some ideas to get you started:
 - 👋 My personal [blog site](https://zzzhanglk.github.io/)
 - 💬 Ask me about anything [here](https://github.com/ZzzhangLK/ZzzhangLK/issues)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&hide_progress=true)
+<a href="#">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZzzhangLK&layout=donut">
+</a>

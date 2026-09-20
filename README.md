@@ -1,4 +1,4 @@
-### Hi there, I am ZzzhangLK 👋
+### Hi there, I am ZLK 👋
 
 > A Frontend developer from **ShenZhen, China**.
 
@@ -12,8 +12,6 @@
 
 ### 📫 Reach me:
 
-- **WeChat** : 18308988976
-- **Phone** : +8617608918976
 - **E-mail** : zhanglingkun@outlook.com
 
 > ## 求职求职，深圳、海口、广州求内推，联系方式在上面 ☝️

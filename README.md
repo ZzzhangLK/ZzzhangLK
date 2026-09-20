@@ -1,4 +1,4 @@
-### Hi there, I am ZLK 👋
+### Hi there, I am Lincoln 👋
 
 > A Frontend developer from **ShenZhen, China**.
 
